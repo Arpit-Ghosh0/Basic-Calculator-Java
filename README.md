@@ -1,2 +1,3 @@
 # Basic-Calculator-Java
-Basic code for calculator using JAVA
+Basic Java code examples and practices.
+Stay Tuned.
